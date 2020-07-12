@@ -1,0 +1,40 @@
+.li-border {
+    width: 410px;
+    margin: 0 0 5px 0;
+    border: 2px solid #FFA07A;
+    border-spacing: 5px;
+    background-color: white;
+    box-shadow: 10px 10px 5px #20B2AA;
+}
+
+.li-small-border {
+    margin: 0 0 2px 0;
+    border: 1px solid #20B2AA;
+    border-spacing: 2px;
+    background-color: white;
+}
+
+.ul-style {
+    height:80px; 
+    width:100%;
+    overflow:hidden; 
+    overflow-y:scroll;
+}
+
+.ul-tours{
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.li-tours{
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    width: 350px;
+    margin: 0 0 5px 5px;
+    border: 2px solid #20B2AA;
+    border-spacing: 5px;
+    background-color: white;
+}
